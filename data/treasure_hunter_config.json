@@ -1,0 +1,9 @@
+{
+  "level":{
+    "1": "data/basicmovement_data.json",
+    "2": "data/basic_math_data.json",
+    "3": "data/basic_rounding_data.json",
+    "4": "data/basic_string_data.json",
+    "5": "data/basic_logic_data.json"
+  }
+}

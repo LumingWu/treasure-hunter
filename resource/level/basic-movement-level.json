@@ -1,0 +1,20 @@
+{
+  "tileimagewidth": 32,
+  "tileimageheight" : 32,
+  "tiledisplaywidth" : 60,
+  "tiledisplayheight" : 60,
+  "maptilewidth" : 10,
+  "maptileheight" : 10,
+  "map": [
+    [{"tilename": "brick_brown0"}, {"tilename": "brick_brown0"}, {"tilename": "brick_brown0"}, {"tilename": "brick_brown0"}, {"tilename": "brick_brown0"}],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}
